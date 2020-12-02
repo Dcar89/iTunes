@@ -1,0 +1,10 @@
+.songs-search-result {
+  border: 1px solid Gray;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.songs-search-result .label {
+  display: inline-block;
+  width: 200px;
+}
